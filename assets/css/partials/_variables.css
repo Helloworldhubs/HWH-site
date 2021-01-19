@@ -1,0 +1,11 @@
+/*------css varaible------*/
+:root {
+    --primary-color: #0078c4;
+    --primary-color2: rgba(0, 128, 199, 0.8);
+    --text-color: rgba(0, 0, 0, 0.8);
+    --white-color: #ffffff;
+    --grey-color: rgba(3, 2, 2, 0.71);
+    /* --border-color: ;
+    --gradient-color: ;
+    --box-shadow: ; */
+}
